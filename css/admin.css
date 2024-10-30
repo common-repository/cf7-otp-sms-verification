@@ -1,0 +1,10 @@
+/**
+ * Admin CSS.
+ */
+.ihs-otp-hide{
+	display: none;
+}
+
+.ihs-otp-red {
+	color: #ff293f;
+}
